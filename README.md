@@ -1,4 +1,4 @@
-# Hi, I'm Onur 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=color=%23333333&size=22&center=true&vCenter=true&lines=👋Hi+There!+;I'm+Onur+Oduncu...)](https://git.io/typing-svg)
 
 I am a data scientist working on projects involving large language models, chatbot development, and the deployment of these models on servers along with backend integration. In the team, I am in charge of image processing and control software for the autonomous underwater vehicle. Below is a brief overview of my skills, projects, and how to contact me.
 
