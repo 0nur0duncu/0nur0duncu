@@ -11,14 +11,6 @@ I am a data scientist working on projects involving large language models, chatb
 - 🖼 **Image Processing:** Projects on image classification, object detection, and segmentation.
 - 📚 **Natural Language Processing:** Text classification, sentiment analysis, language modeling, text generation and LLM.
 
-## Projects
-
-| ID  | Repo Name                    | Status            | Details        |
-| --- | ---------------------------- | ----------------- | -------------- |
-| 1   | [Basic Opencv Projects]()    | Compelted         | Basic projects |
-| 2   | [Basic Python Projects]()    | Currently Working | Basic projects |
-| 3   | [Computer vision Projects]() | On Hold           | Basic projects |
-
 ## Skills
 
 - **Programming Languages:** Python, Node.js, Java, C++
