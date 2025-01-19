@@ -1,4 +1,4 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Onur%20Oduncu&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20MLOps&descAlignY=55&descAlign=50)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Onur%20Oduncu&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20ML%20Specialist&descAlignY=55&descAlign=50)</div>
 
 <div align="center">
   
@@ -14,7 +14,9 @@
 
 ## 🤖 About Me
 
-I'm an **AI Engineer** and **Data Scientist** passionate about pushing the boundaries of artificial intelligence. My expertise spans:
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1; min-width: 300px;">
+        <p>I'm an <strong>AI Engineer</strong> and <strong>Data Scientist</strong> passionate about pushing the boundaries of artificial intelligence. My expertise spans:</p>
 
 ```python
 class AIEngineer:
@@ -36,6 +38,11 @@ class AIEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
+    </div>
+    <div style="flex: 0 0 400px;">
+        <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+    </div>
+</div>
 
 ## 🎯 Expertise
 
