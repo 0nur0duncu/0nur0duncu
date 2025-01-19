@@ -1,5 +1,8 @@
 # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Onur%20Oduncu&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20ML%20Specialist&descAlignY=55&descAlign=50)</div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400px" height="400px" style="margin: 20px 0;"/>
+</div>
 
 <div align="center">
   
@@ -18,10 +21,6 @@
 </div>
 
 ## 🧠 AI Engineering Vision
-
-<table width="100%">
-<tr>
-<td width="60%">
 
 ```python
 class AIArchitect:
@@ -49,15 +48,6 @@ class AIArchitect:
 engineer = AIArchitect()
 print(f"Mission: {engineer.mission_statement()}")
 ```
-
-</td>
-<td width="40%">
-<div align="center">
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" height="auto"/>
-</div>
-</td>
-</tr>
-</table>
 
 ## 🔮 Expertise & Innovation
 
