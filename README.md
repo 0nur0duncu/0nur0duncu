@@ -14,9 +14,9 @@
 
 ## 🤖 About Me
 
-<div align="left">
-
-I'm an **AI Engineer** and **Data Scientist** passionate about pushing the boundaries of artificial intelligence. My expertise spans:
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1; min-width: 300px;">
+        <p>I'm an <strong>AI Engineer</strong> and <strong>Data Scientist</strong> passionate about pushing the boundaries of artificial intelligence. My expertise spans:</p>
 
 ```python
 class AIEngineer:
@@ -38,6 +38,10 @@ class AIEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
+    </div>
+    <div style="flex: 0 0 400px;">
+        <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+    </div>
 </div>
 
 ## 🎯 Expertise
