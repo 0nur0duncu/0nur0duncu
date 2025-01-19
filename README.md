@@ -10,11 +10,13 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<div align="center">
+  <img alt="Coding" width="min(400px, 100%)" style="max-width: 100%; height: auto;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+</div>
 
 ## 🤖 About Me
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
     <div style="flex: 1; min-width: 300px;">
         <p>I'm an <strong>AI Engineer</strong> and <strong>Data Scientist</strong> passionate about pushing the boundaries of artificial intelligence. My expertise spans:</p>
 
@@ -38,16 +40,13 @@ class AIEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
-</div>
-    <div style="flex: 0 0 400px;">
-        <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
     </div>
 </div>
 
 ## 🎯 Expertise
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0nur0duncu&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0nur0duncu&theme=tokyonight" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;" />
 </div>
 
 - 🧠 **Large Language Models**: Training, fine-tuning, and deploying state-of-the-art LLMs
@@ -82,18 +81,20 @@ me.say_hi()
 
 ## 📊 AI Impact Metrics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0nur0duncu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nur0duncu&layout=compact&langs_count=8&theme=tokyonight&border_radius=8"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=0nur0duncu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
+  <img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nur0duncu&layout=compact&langs_count=8&theme=tokyonight&border_radius=8"/>
 </div>
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=0nur0duncu&repo=PersonelTakipYazilimi&theme=tokyonight)](https://github.com/0nur0duncu/PersonelTakipYazilimi)
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=0nur0duncu&repo=AUV-Image-Processing&theme=tokyonight)](https://github.com/0nur0duncu/AUV-Image-Processing)
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/0nur0duncu/PersonelTakipYazilimi" style="flex: 1; min-width: 300px; max-width: 100%;">
+    <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=0nur0duncu&repo=PersonelTakipYazilimi&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/0nur0duncu/AUV-Image-Processing" style="flex: 1; min-width: 300px; max-width: 100%;">
+    <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=0nur0duncu&repo=AUV-Image-Processing&theme=tokyonight" />
+  </a>
 </div>
 
 - 🤖 **Advanced LLM System**: State-of-the-art language model with custom training pipeline
@@ -120,7 +121,7 @@ me.say_hi()
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
 </picture>
 
 </div> 
