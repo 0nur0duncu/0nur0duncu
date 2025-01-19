@@ -1,4 +1,4 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Onur%20Oduncu&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20ML%20Specialist&descAlignY=55&descAlign=50)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Onur%20Oduncu&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20DevOps&descAlignY=55&descAlign=50)</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400px" height="400px" style="margin: 20px 0;"/>
@@ -100,14 +100,7 @@ print(f"Mission: {engineer.mission_statement()}")
 </table>
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=0nur0duncu&repo=PersonelTakipYazilimi&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF)](https://github.com/0nur0duncu/PersonelTakipYazilimi)
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=0nur0duncu&repo=AUV-Image-Processing&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF)](https://github.com/0nur0duncu/AUV-Image-Processing)
-
-</div>
+<!-- ## 🌟 Featured Projects -->
 
 ## 🤝 Professional Network
 
@@ -115,8 +108,7 @@ print(f"Mission: {engineer.mission_statement()}")
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0nur0duncu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]()
-[![Research Gate](https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)]()
+<!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]() -->
 
 </div>
 
