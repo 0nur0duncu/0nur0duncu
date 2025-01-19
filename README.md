@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ```python
 class AIArchitect:
@@ -51,7 +51,7 @@ print(f"Mission: {engineer.mission_statement()}")
 ```
 
 </td>
-<td width="40%">
+<td width="50%">
 <div align="center">
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300px" height="300px"/>
 </div>
