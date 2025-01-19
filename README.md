@@ -13,33 +13,33 @@
 
 ## 🤖 About Me
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
-    <div style="flex: 1; min-width: 300px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
+    <div>
         <p>I'm an <strong>AI Engineer</strong> and <strong>Data Scientist</strong> passionate about pushing the boundaries of artificial intelligence. My expertise spans:</p>
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Onur Oduncu"
-        self.role = "AI Engineer & Data Scientist"
-        self.language_spoken = ["tr_TR", "en_US"]
-        self.interests = [
-            "Large Language Models 🤖",
-            "Computer Vision 👁️",
-            "MLOps & AI Systems 🔄",
-            "Autonomous Systems 🌊",
-            "Deep Learning Research 🧠"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build the future of AI together!")
+        ```python
+        class AIEngineer:
+            def __init__(self):
+                self.name = "Onur Oduncu"
+                self.role = "AI Engineer & Data Scientist"
+                self.language_spoken = ["tr_TR", "en_US"]
+                self.interests = [
+                    "Large Language Models 🤖",
+                    "Computer Vision 👁️",
+                    "MLOps & AI Systems 🔄",
+                    "Autonomous Systems 🌊",
+                    "Deep Learning Research 🧠"
+                ]
+            
+            def say_hi(self):
+                print("Thanks for dropping by! Let's build the future of AI together!")
 
-me = AIEngineer()
-me.say_hi()
-```
+        me = AIEngineer()
+        me.say_hi()
+        ```
     </div>
-    <div style="flex: 0 0 400px;">
-        <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+    <div>
+        <img alt="Coding" width="100%" style="max-width: 400px; margin: 0 auto; display: block;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
     </div>
 </div>
 
@@ -81,9 +81,9 @@ me.say_hi()
 
 ## 📊 AI Impact Metrics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0nur0duncu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nur0duncu&layout=compact&langs_count=8&theme=tokyonight&border_radius=8"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=0nur0duncu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
+  <img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nur0duncu&layout=compact&langs_count=8&theme=tokyonight&border_radius=8"/>
 </div>
 
 ## 🌟 Featured Projects
