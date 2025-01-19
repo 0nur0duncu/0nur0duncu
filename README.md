@@ -38,7 +38,7 @@ class AIEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
-    </div>
+</div>
     <div style="flex: 0 0 400px;">
         <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
     </div>
