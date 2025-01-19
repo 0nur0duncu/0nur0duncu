@@ -9,6 +9,7 @@
 [![Years Badge](https://badges.pufler.dev/years/0nur0duncu?style=for-the-badge&color=blue)](https://github.com/0nur0duncu)
 
 </div>
+<div><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"></div>
 
 ## 🤖 About Me
 
@@ -77,7 +78,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-<div><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"></div>
 
 ## 📊 AI Impact Metrics
 
