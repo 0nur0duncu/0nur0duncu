@@ -19,9 +19,9 @@
 
 ## 🧠 AI Engineering Vision
 
-<table>
+<table width="100%">
 <tr>
-<td width="45%">
+<td width="60%">
 
 ```python
 class AIArchitect:
@@ -51,9 +51,9 @@ print(f"Mission: {engineer.mission_statement()}")
 ```
 
 </td>
-<td width="45%">
+<td width="40%">
 <div align="center">
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300px" height="300px"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" height="auto"/>
 </div>
 </td>
 </tr>
@@ -98,13 +98,13 @@ print(f"Mission: {engineer.mission_statement()}")
 ## 📊 Impact Metrics
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=0nur0duncu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=0nur0duncu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nur0duncu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nur0duncu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF" width="100%"/>
 </td>
 </tr>
 </table>
