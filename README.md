@@ -9,7 +9,9 @@
 [![Years Badge](https://badges.pufler.dev/years/0nur0duncu?style=for-the-badge&color=blue)](https://github.com/0nur0duncu)
 
 </div>
-<div><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"></div>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+    <img alt="Coding" style="max-width: 400px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+</div>
 
 ## 🤖 About Me
 
@@ -37,10 +39,6 @@
         me = AIEngineer()
         me.say_hi()
         ```
-    </div>
-    <div>
-        <img alt="Coding" width="100%" style="max-width: 400px; margin: 0 auto; display: block;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-    </div>
 </div>
 
 ## 🎯 Expertise
