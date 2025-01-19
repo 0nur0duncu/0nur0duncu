@@ -9,37 +9,33 @@
 [![Years Badge](https://badges.pufler.dev/years/0nur0duncu?style=for-the-badge&color=blue)](https://github.com/0nur0duncu)
 
 </div>
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-    <img alt="Coding" style="max-width: 400px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-</div>
 
 ## 🤖 About Me
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
-    <div>
-        <p>I'm an <strong>AI Engineer</strong> and <strong>Data Scientist</strong> passionate about pushing the boundaries of artificial intelligence. My expertise spans:</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-        ```python
-        class AIEngineer:
-            def __init__(self):
-                self.name = "Onur Oduncu"
-                self.role = "AI Engineer & Data Scientist"
-                self.language_spoken = ["tr_TR", "en_US"]
-                self.interests = [
-                    "Large Language Models 🤖",
-                    "Computer Vision 👁️",
-                    "MLOps & AI Systems 🔄",
-                    "Autonomous Systems 🌊",
-                    "Deep Learning Research 🧠"
-                ]
-            
-            def say_hi(self):
-                print("Thanks for dropping by! Let's build the future of AI together!")
+I'm an **AI Engineer** and **Data Scientist** passionate about pushing the boundaries of artificial intelligence. My expertise spans:
 
-        me = AIEngineer()
-        me.say_hi()
-        ```
-</div>
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Onur Oduncu"
+        self.role = "AI Engineer & Data Scientist"
+        self.language_spoken = ["tr_TR", "en_US"]
+        self.interests = [
+            "Large Language Models 🤖",
+            "Computer Vision 👁️",
+            "MLOps & AI Systems 🔄",
+            "Autonomous Systems 🌊",
+            "Deep Learning Research 🧠"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build the future of AI together!")
+
+me = AIEngineer()
+me.say_hi()
+```
 
 ## 🎯 Expertise
 
