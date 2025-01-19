@@ -51,7 +51,7 @@ print(f"Mission: {engineer.mission_statement()}")
 ```
 
 </td>
-<td width="50%">
+<td width="45%">
 <div align="center">
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300px" height="300px"/>
 </div>
