@@ -8,9 +8,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/0nur0duncu?style=for-the-badge&logo=github&color=blue)](https://github.com/0nur0duncu?tab=followers)
 [![Years Badge](https://badges.pufler.dev/years/0nur0duncu?style=for-the-badge&color=blue)](https://github.com/0nur0duncu)
 
-</div>
-
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+</div>
 
 ## 🤖 About Me
 
